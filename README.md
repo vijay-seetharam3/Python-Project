@@ -1,1 +1,1 @@
-Thi sis the ReadMe file that i have created as a Sample
+This is the ReadMe file that i have created as a Sample
